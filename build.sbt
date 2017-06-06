@@ -1,4 +1,4 @@
-name := "printCluster"
+name := "AkkaCluster"
 
 version := "1.0"
 
